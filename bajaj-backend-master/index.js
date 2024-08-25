@@ -24,7 +24,7 @@ app.post('/bfhl', (req, res) => {
     const response = {
         is_success: true,
         user_id: "ishank_goel_28062003",
-        email: "Deepali56!",
+        email: "ishank.goel2021@vitstudent.ac.in",
         roll_number: "21BEC0435",
         numbers: numbers,
         alphabets: alphabets,
